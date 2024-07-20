@@ -39,12 +39,6 @@ This project aims to segment customers into different classes based on their ann
 - Upload the customer dataset to predict the cluster each customer belongs to.
 - View the clustering results on the results page.
 
-## Front End User Input Interface
-
-![Front End User Input Interface](https://github.com/yourusername/customer_class_prediction/blob/main/front_end_images/front_end_input.png)
-
-This is how the front end user input interface looks. The model will predict customer clusters based on these inputs.
-
 ## Code Explanation
 
 ### `define_cluster.py`
