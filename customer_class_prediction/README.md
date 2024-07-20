@@ -4,7 +4,7 @@ This project aims to segment customers into different classes based on their ann
 
 ## Demo Video
 
-[Watch the demo video](https://youtu.be/LU1fTtT395k)
+[Watch the demo video](https://youtu.be/liUShAItfoQ?si=uRuTcsF9mr_r8rH3)
 
 ## Setup and Installation
 
