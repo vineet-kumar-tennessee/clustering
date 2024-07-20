@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import Flask, request, render_template, redirect, url_for
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -56,3 +57,6 @@ def predict():
 
 if __name__ == '__main__':
     app.run(debug=True)
+=======
+
+>>>>>>> 5995d1dbbcf43833366e7772bd254cbcb92249b4
